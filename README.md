@@ -4,8 +4,8 @@
 
 CT の DICOM を読み込み，Axial・Coronal・Sagittal の 3 断面を表示します．第 5 回で抽出した肺領域を 3D 表示（ボリュームレンダリング）することもできます（観点 7）．
 
-<img src="image.png" width="500">
-<img src="image-1.png" width="350">
+<img src="image.png" width="600">
+<img src="image-1.png" width="300">
 
 ## 課題との対応
 
